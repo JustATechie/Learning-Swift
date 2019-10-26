@@ -13,6 +13,7 @@
 		DE081EA72363F7B100A4E22B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE081EA52363F7B100A4E22B /* Main.storyboard */; };
 		DE081EA92363F7B400A4E22B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE081EA82363F7B400A4E22B /* Assets.xcassets */; };
 		DE081EAC2363F7B400A4E22B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE081EAA2363F7B400A4E22B /* LaunchScreen.storyboard */; };
+		DE081EB4236411BA00A4E22B /* Communist Doggo.png in Resources */ = {isa = PBXBuildFile; fileRef = DE081EB3236411BA00A4E22B /* Communist Doggo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DE081EA82363F7B400A4E22B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE081EAB2363F7B400A4E22B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE081EAD2363F7B400A4E22B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE081EB3236411BA00A4E22B /* Communist Doggo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Communist Doggo.png"; path = "../../../Communist Doggo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DE081EA82363F7B400A4E22B /* Assets.xcassets */,
 				DE081EAA2363F7B400A4E22B /* LaunchScreen.storyboard */,
 				DE081EAD2363F7B400A4E22B /* Info.plist */,
+				DE081EB3236411BA00A4E22B /* Communist Doggo.png */,
 			);
 			path = MyFirstApp;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE081EAC2363F7B400A4E22B /* LaunchScreen.storyboard in Resources */,
+				DE081EB4236411BA00A4E22B /* Communist Doggo.png in Resources */,
 				DE081EA92363F7B400A4E22B /* Assets.xcassets in Resources */,
 				DE081EA72363F7B100A4E22B /* Main.storyboard in Resources */,
 			);
